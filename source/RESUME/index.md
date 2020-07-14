@@ -1,68 +1,66 @@
 ---
-title: RESUME
+title: 简历
 date: 2020-05-16 17:57:54
 ---
 
 <font size=14>__Yaqin Huang__ </font> 
 
-ShenZhen &nbsp; | &nbsp; yaqinhro@outlook.com &nbsp; | &nbsp; 156-2289-3786
+深圳 &nbsp; | &nbsp; yaqinhpro@outlook.com &nbsp; | &nbsp; 156-2289-3786
 
-## WORK EXPERIENCE
+## 工作经历
 
-__<div style="float:left;">SolidWorks eDrawings R&D Dev Engineer | Unity & C++ & HoloLens</div> <div style="float:right;">MAR 2018-MAR 2020</div></br>__     
+__<div style="float:left;">美国SolidWorks eDrawings 研发工程师 | Unity&C++ & HoloLens头显</div> <div style="float:right;">2018年3月-2020年3月</div></br>__     
 
-- Work closely with teammates under Agile Scrum Methodology, and use Unity, MRTKV2 and GLTF Importer to develop HoloLens 2 Augmented Reality CAD Model viewer app that allows user to load multiple GLTF models, precisely mate models to physical environment and move/rotate/scale models
+- 在敏捷开发的框架指导下和队友紧密合作，使用Unity, MRTKV2和GLTF Importer开发HoloLens 2增强现实CAD模型查看软件，使得用户能够加载GLTF文件，将模型精准放置于现实环境中，和移动/转动/放大，缩小模型
 
-- Use eDrawings C++ OpenGL based Render System to develop HoloLens 1 CAD Model viewer streaming solution that is streamed from eDrawings Desktop so user could load massive industry model
+- 使用eDrawings基于C++ OpenGL的渲染系统开发HoloLens 1 CAD模型查看流式渲染系统，使得用户能够通过eDrawings电脑版本来渲染模型，再通过无线网络传输图像至Hololens1，得到加载超大型工业模型的性能
 
-- Use eDrawings C++ OpenGL based Render System to implement Section View in eDrawings Desktop: user could drag Section Plane along local axes using mouse, hide/show Section Plane and change direction of Section Plane
+- 使用eDrawings基于C++ OpenGL的渲染系统在eDrawings电脑版本中开发剖面视图功能：用户能够使用鼠标沿着局部坐标轴来移动剖面，隐藏/显示剖面和改变剖面的方向
 
-__<div style="float:left;">SolidWorks AR Software Developer Intern | Unity & HoloLens 1</div> <div style="float:right;">MAY 2017-JAN 2018</div></br>__
+__<div style="float:left;">美国SolidWorks 增强现实软件开发实习 | Unity&HoloLens1头显</div> <div style="float:right;">2017年5月-2018年1月</div></br>__
 
-- Demoed in SolidWorks World 2018 Conference, Use Unity, MRTKV1, Unity Dropbox Asset and Microsoft Spectator View toolkit to develop the Proof-Of-Concept HoloLens 1 AR CAD Model viewer app
+- 使用Unity, MRTKV1, Unity Dropbox 插件和微软Spectator View toolkit来开发概念验证版本(POC) HoloLens 1增强现实CAD模型查看软件
 
-- User could load multiple GLTF models from local storage or Dropbox cloud storage, mate models to physical environment, move/rotate/scale models and provide third-person view with external DSLR camera
+- 用户能够从本地存储或Dropbox云端存储加载多个GLTF文件模型，将模型精准放置于现实环境，移动/转动/放大，缩小模型和结合外置数码相机来提供第三人称视角演示，程序在SolidWorks World 2018全球用户大会中展示
 
-## PATENT
+## 专利项目
 
-__<div style="float:left;">"Systems and Methods for Mating Virtual Objects to Real World Environments". Patent Pending</div> <div style="float:right;">FEB 2019</div></br>__
+__<div style="float:left;">“在现实世界中精确放置虚拟物体的全新的系统和方法” 专利申请中</div> <div style="float:right;">2019年2月</div></br>__
 
-- Work closely with UX designer to do brain-storming and fast prototyping for new interactions and tools to overcome the difficulty of selecting and placing objects precisely in AR/VR/MR environment
+- 和用户体验设计师紧密合作,以发散思维设计并快速迭代开发全新的交互模式和工具以解决在增强现实/虚拟现实/混合现实环境中难以精确选择/放置物体的问题
 
-- Use Unity and MRTKV1 to develop the selecting and mating interaction tools so user could archive the same workflow with minimum cost
+- 使用Unity和MRTKV1来开发选择和放置物体的交互工具，达到用户能够用最少的步骤完成相同的工作流程的目标
 
-## EDUCATION
+## 教育经历
 
-__<div style="float:left;">BOSTON UNIVERSITY</div> <div style="float:right;">SEP 2016-FEB 2018</div></br>__
+__<div style="float:left;">美国波士顿大学</div> <div style="float:right;">2016年9月-2018年2月</div></br>__
 
-- Master of Science in Electrical and Computer Engineering
+- 电子与计算机工程硕士学位
 
-__<div style="float:left;">PURDUE UNIVERSITY</div> <div style="float:right;">AUG 2012-MAY 2016</div></br>__
+__<div style="float:left;">美国普渡大学</div> <div style="float:right;">2012年8月-2016年5月</div></br>__
 
-- Bachelor of Science in Electrical Engineering (Dean\'s list student and TA experience)
+- 电子工程本科学位（优秀学生和助教经历）
 
-## AWARDS
+## 获得奖项
 
-__<div style="float:left;">Your Ads | Unity & Vuforia & HoloLens 1</div> <div style="float:right;">MAR 2017</div></br>__
+__<div style="float:left;">Your Ads | nity & Vuforia & HoloLens1头显</div> <div style="float:right;">2017年3月</div></br>__
 
-- __Discover Virtual 2 Reality Challenge Second Prize, Invited to PYMNTS.com Innovation Project Conference__
+- __Discover Virtual 2 Reality挑战第二名, 团队被邀请至PYMNTS.com创新项目研讨会展示项目__
 
-- Use Unity, MRTKV1 and Vuforia SDK to build a prototype app that introduces the concept of future advertisements: everyone could enjoy customized 3D interactive ads based on the result of Machine Learning algorithm from personal purchase history
+- 使用Unity, MRTKV1和Vuforia SDK打造一个原型程序来介绍未来广告的概念：每个人都能够享受基于来自个人购物历史的机器学习推荐物品的3D交互广告而不是千篇一律的单一维度的广告
 
-__<div style="float:left;">InkFinity | Unity & HTC Vive</div> <div style="float:right;">NOV 2016</div></br>__
+__<div style="float:left;">InkFinity | Unity & HTC Vive头显</div> <div style="float:right;">2016年11月</div></br>__
 
-- __MIT Media Lab Hacking Arts Hackathon Hackers\' Choice Award__
+- __MIT Media Lab Hacking Arts黑客松最佳黑客选择奖__
 
-- Use Unity and SteamVR to build a prototype app that offers a unique VR poetic journey inside Chinse traditional ink paintings: by integrated with VR, painting arts rise to a whole new dimension
+- 使用Unity和SteamVR 打造一个提供在中国传统水墨画里的诗般的旅程的虚拟现实原型程序：通过和虚拟现实相结合，绘画艺术得以进化
 
-## RESEARCH EXPERIENCE
+## 研究经历
 
-__<div style="float:left;">MIT Media Lab Fluid Interface Group Virtual Reality research | Unity & MUSE</div> <div style="float:right;">MAY-SEP 2016</div></br>__
+__<div style="float:left;">MIT Media Lab Fluid Interface 团队虚拟现实研究 | Unity & MUSE头戴</div> <div style="float:right;">2016年5月-9月</div></br>__
 
-- Work closely with research instructor to develop Mobile PsychicVR Android app with MUSE brain-sensing headband to enhance focusing: users get the object control superpower using brain sensing in single-player mode
+- 基于MUSE大脑感知头戴硬件，和研究导师紧密合作来开发移动版PsychicVR安卓程序：在单人模式中，用户得到意念控制物体的“超能力”，最终以达到提升注意力的效果
 
-- Work closely with research instructor to develop multiplayer mode in MPVR app with Photon Unity Networking: user could visualize real-time brain activities in spirit mode and communicate in voice chat
-
-[Download Resume PDF Version](/documents/Resume-YaqinHuang.pdf)
+- 以Photon Unity Networking为基础，和研究导师紧密合作来开发MPVR的多人模式：在灵魂模式中，用户可以视觉化实时的脑部活动，并且在语音频道中交谈
 
 [下载简历PDF版本](/documents/个人简历-黄亚钦.pdf)
