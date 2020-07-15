@@ -182,10 +182,10 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  Linkedin: https://www.linkedin.com/in/yaqin-huang-8734b3a4 || fab fa-linkedin
-  E-Mail: mailto:yaqinhpro@outlook.com || fa fa-envelope
+  领英账号: https://www.linkedin.com/in/yaqin-huang-8734b3a4 || fab fa-linkedin
+  电子邮箱: mailto:yaqinhpro@outlook.com || fa fa-envelope
   GitHub: https://github.com/yaqinhpro || fab fa-github
-  Wechat: https://s1.ax1x.com/2020/06/22/NJ50B9.jpg || fab fa-weixin
+  微信账号: https://s1.ax1x.com/2020/06/22/NJ50B9.jpg || fab fa-weixin
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
