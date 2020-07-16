@@ -63,4 +63,4 @@ __<div style="float:left;">MIT Media Lab Fluid Interface 团队虚拟现实研�
 
 - 以Photon Unity Networking为基础，和研究导师紧密合作来开发MPVR的多人模式：在灵魂模式中，用户可以视觉化实时的脑部活动，并且在语音频道中交谈
 
-[下载简历PDF版本](/documents/个人简历-黄亚钦.pdf)
+[下载简历PDF版本](/zh/documents/个人简历-黄亚钦.pdf)
