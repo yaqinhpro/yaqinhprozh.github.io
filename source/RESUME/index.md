@@ -5,7 +5,7 @@ date: 2020-05-16 17:57:54
 
 <font size=14>__黄亚钦__ </font> 
 
-深圳 &nbsp; | &nbsp; yaqinhpro@outlook.com &nbsp; | &nbsp; 156-2289-3786
+深圳&nbsp;|&nbsp;yaqinhpro@outlook.com&nbsp;|&nbsp;156-2289-3786
 
 ## 工作经历
 
