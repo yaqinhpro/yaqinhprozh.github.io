@@ -9,7 +9,7 @@ date: 2020-05-16 17:57:54
 
 ## 工作经历
 
-__<div style="float:left;">美国SolidWorks eDrawings 研发工程师 | Unity&C++ & HoloLens头显</div> <div style="float:right;">2018年3月-2020年3月</div></br>__     
+__<div style="float:left;">美国SolidWorks eDrawings 研发工程师 | Unity & C++ & HoloLens头显</div> <div style="float:right;">2018年3月-2020年3月</div></br>__     
 
 - 在敏捷开发的框架指导下和队友紧密合作，使用Unity, MRTKV2和GLTF Importer开发HoloLens 2增强现实CAD模型查看软件，使得用户能够加载GLTF文件，将模型精准放置于现实环境中，和移动/转动/放大，缩小模型
 
@@ -17,7 +17,7 @@ __<div style="float:left;">美国SolidWorks eDrawings 研发工程师 | Unity&C+
 
 - 使用eDrawings基于C++ OpenGL的渲染系统在eDrawings电脑版本中开发剖面视图功能：用户能够使用鼠标沿着局部坐标轴来移动剖面，隐藏/显示剖面和改变剖面的方向
 
-__<div style="float:left;">美国SolidWorks 增强现实软件开发实习 | Unity&HoloLens1头显</div> <div style="float:right;">2017年5月-2018年1月</div></br>__
+__<div style="float:left;">美国SolidWorks 增强现实软件开发实习 | Unity & HoloLens1头显</div> <div style="float:right;">2017年5月-2018年1月</div></br>__
 
 - 使用Unity, MRTKV1, Unity Dropbox 插件和微软Spectator View toolkit来开发概念验证版本(POC) HoloLens 1增强现实CAD模型查看软件
 
