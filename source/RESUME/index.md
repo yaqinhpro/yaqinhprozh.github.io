@@ -13,7 +13,7 @@ __<div style="float:left;">美国SolidWorks eDrawings 研发工程师 | Unity3D 
 
 - 在敏捷开发的框架指导下和队友紧密合作，使用U3D, MRTKV2和GLTF Importer开发HoloLens 2增强现实CAD模型查看软件，使得用户能够加载GLTF文件，将模型精准放置于现实环境中，和移动/转动/放大，缩小模型
 
-- 使用eDrawings C++渲染系统和微软全息系统开发HoloLens 1 CAD模型查看流式渲染系统中的信号接收，光标，工具栏和移动/转动/放大，缩小/发散功能，使得用户能够通过eDrawings电脑版本来渲染模型，再通过无线网络传输图像至Hololens 1，从而能够在HoloLens上和超大型工业模型交互
+- 使用eDrawings C++渲染系统和微软全息系统开发HoloLens 1 CAD模型查看流式渲染系统中的信号接收，光标，工具栏和移动/转动/放大，缩小/爆炸图功能，使得用户能够通过eDrawings电脑版本来渲染模型，再通过无线网络传输图像至Hololens 1，从而能够在HoloLens上和超大型工业模型交互
 
 - 使用eDrawings C++渲染系统在eDrawings电脑版本中开发剖面视图功能：用户能够使用鼠标沿着局部坐标轴来移动剖面， 隐藏/显示剖面和改变剖面的方向
 
